@@ -1,4 +1,4 @@
-# LW3-v0.1-
+# LW3-v0.1
 
 Program has:
 1) Student name and surname by user input
